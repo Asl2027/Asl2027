@@ -7,7 +7,6 @@
 
 📫 How to reach me: https://www.linkedin.com/in/aiswarya-sini-lal-b937b0252/
 
-😄 Pronouns: SHE
 
 ⚡ Fun fact: I love watching flight crash documentaries and real-life flight stories!
 
