@@ -1,6 +1,6 @@
 👋 Hi, I’m Aiswarya Sini Lal!
 
-👀 I’m interested in Web Development and CyberSecurity.
+👀 I’m interested in CyberSecurity.
 
 
 💞️ I’m looking to collaborate on open-source web development projects!
