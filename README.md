@@ -1,4 +1,4 @@
-# 👩‍💼 Aiswarya Sini Lal — Business Analyst
+# 👩‍💼 Aiswarya Sini Lal ~ Business Analyst
 
 Aspiring Business Analyst with hands-on experience in requirements analysis, data cleaning, dashboard design, and product-focused projects.  
 Interested in roles involving business analysis, product analytics, and decision support.
