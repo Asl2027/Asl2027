@@ -35,7 +35,6 @@ All projects focus on **problem-solving, insights, and business impact** rather 
 - Built dashboards to track workforce metrics and trends
 
 ### Customer Churn & Revenue Impact Dashboard
-
 - Built an executive-level churn analysis dashboard in Power BI
 - Defined KPIs using DAX (Churn Rate, Revenue Loss, Active vs Churned Customers)
 - Identified high-risk subscription plans driving revenue impact
